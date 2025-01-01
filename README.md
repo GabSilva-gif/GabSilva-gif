@@ -1,4 +1,4 @@
-## Hi, Eu sou o Gabriel Silva 👋
+## Olá! Eu sou o Gabriel Silva 👋
 
 <!--
 **GabSilva-gif/GabSilva-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
